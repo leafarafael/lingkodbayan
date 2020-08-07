@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lingkod Bayan</title>
+    <link>https://lingkod-bayan.web.app/tags/</link>
+    <description>Recent content in Tags on Lingkod Bayan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Aug 2020 19:43:09 +0400</lastBuildDate>
+    
+	<atom:link href="https://lingkod-bayan.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criminal Case</title>
+      <link>https://lingkod-bayan.web.app/tags/criminal-case/</link>
+      <pubDate>Thu, 06 Aug 2020 19:43:09 +0400</pubDate>
+      
+      <guid>https://lingkod-bayan.web.app/tags/criminal-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senate of the Philippines</title>
+      <link>https://lingkod-bayan.web.app/tags/senate-of-the-philippines/</link>
+      <pubDate>Wed, 05 Aug 2020 21:46:00 +0400</pubDate>
+      
+      <guid>https://lingkod-bayan.web.app/tags/senate-of-the-philippines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+baseURL = "https://lingkod-bayan.web.app/"
+languageCode = "en-us"
+title = "Lingkod Bayan"
+theme = "dream"
+defaultContentLanguage = "en"
+googleAnalytics = "..."
+disqusShortname = "..."
+
+[params]
+  # background = "black"
+  backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = ""
+  description = "P"
+  avatar = "/me/ph_seal.png"
+  motto = "Know Your Vote"
+  categoriesLimitInHeader = 6
+  # headerBottomText = ""

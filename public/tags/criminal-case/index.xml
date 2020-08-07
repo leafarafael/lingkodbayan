@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Criminal Case on Lingkod Bayan</title>
+    <link>https://lingkod-bayan.web.app/tags/criminal-case/</link>
+    <description>Recent content in Criminal Case on Lingkod Bayan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Aug 2020 19:43:09 +0400</lastBuildDate>
+    
+	<atom:link href="https://lingkod-bayan.web.app/tags/criminal-case/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leila de Lima</title>
+      <link>https://lingkod-bayan.web.app/posts/leila_de_lima/</link>
+      <pubDate>Thu, 06 Aug 2020 19:43:09 +0400</pubDate>
+      
+      <guid>https://lingkod-bayan.web.app/posts/leila_de_lima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lito Lapid</title>
+      <link>https://lingkod-bayan.web.app/posts/lito_lapid/</link>
+      <pubDate>Wed, 05 Aug 2020 21:45:07 +0400</pubDate>
+      
+      <guid>https://lingkod-bayan.web.app/posts/lito_lapid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bong Revilla</title>
+      <link>https://lingkod-bayan.web.app/posts/bong_revilla/</link>
+      <pubDate>Wed, 05 Aug 2020 14:58:20 +0400</pubDate>
+      
+      <guid>https://lingkod-bayan.web.app/posts/bong_revilla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
