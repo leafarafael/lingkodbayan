@@ -17,3 +17,4 @@ disqusShortname = "..."
   motto = "Know Your Vote"
   categoriesLimitInHeader = 6
   # headerBottomText = ""
+  utterancesRepo = "leafarafael/lingkodbayan.github.io"
